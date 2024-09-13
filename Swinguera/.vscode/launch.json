@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Swinguera_9f7c16d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "DatabaseHelper",
+            "classpath": [
+                "lib/sqlite-jdbc-3.46.1.jar",
+                "bin"
+            ]
+        }
+    ]
+}
