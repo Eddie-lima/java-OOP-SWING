@@ -1,7 +1,9 @@
-{
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/sqlite-jdbc-3.46.1.0.jar"
-    ]
-}
+// {
+// "java.configuration.runtimes": [
+//   {
+//     "name": "JavaSE-17",
+//     "path": "/usr/lib/jvm/java-17-openjdk-amd64/bin/java",
+//     "default": true
+//   },
+// ]
+// }
