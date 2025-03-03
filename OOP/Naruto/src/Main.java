@@ -3,6 +3,7 @@ public class Main {
         Uzumaki naruto = new Uzumaki();
         naruto.nome = "Naruto Uzumaki";
         naruto.temBiju = true;
+        System.out.println(naruto.nome);
         
         Uchiha sasuke = new Uchiha();
 
@@ -11,9 +12,9 @@ public class Main {
         System.out.print(sasuke.nome + " ");
         sasuke.ataqueBase();
 
-        System.out.println();
+        // System.out.println();
         
-        System.out.print(naruto.nome + " ");
-        naruto.ataqueBase();
+        // System.out.print(naruto.nome + " ");
+        // naruto.ataqueBase();
     }
 }
